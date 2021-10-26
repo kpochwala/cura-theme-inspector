@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml-utils/JSONListModel/example.qml</file>
+        <file>qml-utils/JSONListModel/jsonData.txt</file>
+        <file>qml-utils/JSONListModel/JSONListModel.qml</file>
+        <file>qml-utils/JSONListModel/JSONListModel.qmlproject</file>
+        <file>qml-utils/JSONListModel/jsonpath.js</file>
+        <file>qml-utils/.gitignore</file>
+        <file>qml-utils/LICENSE</file>
+        <file>qml-utils/README</file>
+    </qresource>
+</RCC>
